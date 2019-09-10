@@ -1,1 +1,1 @@
-In this is project learned about machine virtual, git, github, vagrant
+In this is project I learned about machine virtual, git, github, vagrant
