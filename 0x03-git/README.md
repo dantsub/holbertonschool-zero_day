@@ -1,1 +1,2 @@
-learning Git
+Learning Git
+I almost finished
